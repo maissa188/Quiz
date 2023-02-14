@@ -31,7 +31,7 @@ class _MyAppState extends State<MyApp>{
           {'text':'Rabbit','score':9},
           {'text':'snake','score':2},
           {'text':'Elephant','score':6},
-          {'text':'Lion','score':7}
+          {'text':'Lion','score':7},
           ],
       },
          {
